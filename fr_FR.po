@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Astra Child Simplon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-03-12 13:46+0000\n"
+"PO-Revision-Date: 2021-03-12 13:54+0000\n"
+"Last-Translator: \n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.2; wp-5.7\n"
+"X-Domain: astra-child-simplon"
+
+#: functions.php:37
+msgid "Astra Child Theme Settings"
+msgstr "réglage de thème Astra Child"
+
+#. Name of the theme
+msgid "astra child/astra child/astra-child-simplon"
+msgstr "astra child/astra child/astra-child-simplon"
+
+#: functions.php:93
+msgid "cappucino"
+msgstr "cappucino"
+
+#: functions.php:83
+msgid "caramel"
+msgstr "caramel"
+
+#: functions.php:78
+msgid "carbone"
+msgstr "charbon"
+
+#: functions.php:55
+msgid ""
+"Check here if you want your navigation bar fixed to the top of the screen."
+msgstr "cocher ici pour une barre de navigation fixe"
+
+#: functions.php:54
+msgid "Fixed navigation bar"
+msgstr "barre de navigation fixe"
+
+#: functions.php:88
+msgid "vanilla"
+msgstr "vanille"
+
+#: functions.php:98
+msgid "white"
+msgstr "blanc"
